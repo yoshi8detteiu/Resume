@@ -7,9 +7,9 @@ MBTI
 特技
  -->
 
-# Work history 職務経歴
+# Work history
 
-# Positions with work experience 実務経験のあるポジション
+# Positions with work experience
 
 ## Tech Lead
 <!-- 
@@ -18,15 +18,19 @@ MBTI
 実績
 ポートフォリオ
  -->
+
 ## Flutter Engineer
+
 ## Project Manager
+
 ## iOS Engineer
+
 ## Design Engineer
+
 ## UI Designer
+
 ## Frontend Engineer
+
 ## Android Engineer
+
 ## Engineering Leader（Engineering Manager）
-
-
-
-
