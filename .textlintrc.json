@@ -8,7 +8,6 @@
     "ja-hiragana-hojodoushi": true,
     "ja-nakaguro-or-halfwidth-space-between-katakana": true,
     "ja-no-abusage": true,
-    "ja-no-mixed-period": true,
     "ja-no-redundant-expression": true,
     "ja-no-space-around-parentheses": true,
     "ja-no-space-between-full-width": true,
@@ -18,13 +17,10 @@
       "before": true,
       "after": true
     },
+    "ja-space-between-half-and-full-width": false,
     "ja-space-around-link": {
       "before": true,
       "after": true
-    },
-    "ja-space-between-half-and-full-width": {
-      "space": "always",
-      "lintStyledNode": true
     },
     "ja-unnatural-alphabet": true,
     "max-comma": {
