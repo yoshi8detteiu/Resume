@@ -8,7 +8,8 @@
   },
   "scripts": {
     "lint": "textlint . && markdownlint **/*.md",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js"
   },
   "keywords": [],
   "author": "",
