@@ -1,3 +1,3 @@
 remote_theme: pages-themes/cayman@v0.2.0
-title: Resume
-description: 自己紹介、スキルセット、職務経歴が記載されています
+title: { { page.title } }
+description: { { page.description } }
