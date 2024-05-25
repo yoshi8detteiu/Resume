@@ -3,7 +3,7 @@ name: Release PDF
 on:
   pull_request:
     branches: [main]
-    paths: 'docs/README.md'
+    paths: 'docs/index.md'
   workflow_dispatch:
 
 jobs:
@@ -28,5 +28,5 @@ jobs:
           body: ${{ github.event.pull_request.title }}
           draft: true
           fail_on_unmatched_files: true
-          files: docs/README.pdf
+          files: docs/resume.pdf
           name: Release ${{ github.ref }}md-to-pdf
