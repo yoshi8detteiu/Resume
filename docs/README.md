@@ -24,8 +24,8 @@
 
 ## 人物
 
-[MBTI](https://www.16personalities.com/ja) では [ESFJ(領事)](https://www.16personalities.com/ja/esfj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC) と出ました。  
-昔は違う結果であった気がします、確か [ESTJ(幹部)](https://www.16personalities.com/ja/estj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC) だったかと...  
+[MBTI](https://www.16personalities.com/ja) では [ESFJ(領事)][ESFJ(領事)] と出ました。  
+昔は違う結果であった気がします、確か [ESTJ(幹部)][ESTJ(幹部)] だったかと...  
 自覚としては当たらずとも遠からずといった印象です。  
 外交的と言われるとあまり自信ありませんが、チームの皆とお互い信頼してサービス開発をする事は何より楽しいと感じます。
 
@@ -34,6 +34,9 @@
 また、サービス開発に真摯でない人が多い環境では楽しくないと感じます。  
 
 趣味はアニメやゲーム、映画、楽器演奏、料理などのインドアが基本ですが、釣りやキャンプも嗜みます。
+
+[ESFJ(領事)]: https://www.16personalities.com/ja/esfj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC
+[ESTJ(幹部)]: https://www.16personalities.com/ja/estj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC
 
 # スキルセット
 
@@ -66,7 +69,6 @@
 - 0 からのアーキテクチャ構築とアプリリリース
 - Flutter Web の開発経験
 - [マネーフォワード ME への Flutter 導入をリード](https://moneyforward-dev.jp/entry/2023/10/18/110000)
-
 
 ### iOS
 
