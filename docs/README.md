@@ -6,7 +6,7 @@
 
 これまでの経歴としては、SES、自社開発、SIer 企業での開発経験があり  
 ゼロイチの開発から、大規模アプリの運用開発等、プロジェクト規模も大小様々なものを経験してきました。  
-開発してきたものとしては、ソーシャルゲームやBtoBアプリ、変わったものだとインタラクティブアート用のアプリなどがあります。  
+開発してきたものとしては、ソーシャルゲームや BtoB アプリ、変わったものだとインタラクティブアート用のアプリなどがあります。  
 経歴は幅広いのですが、新卒から一貫してアプリ開発を中心としたサービス開発に携わってきました。  
 
 ## これまで評価者からフィードバックされた内容
@@ -24,7 +24,7 @@
 
 ## 人物
 
-[MBTI](https://www.16personalities.com/ja) では [ESFJ(領事)](https://www.16personalities.com/ja/esfj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC)と出ました。  
+[MBTI](https://www.16personalities.com/ja) では [ESFJ(領事)](https://www.16personalities.com/ja/esfj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC) と出ました。  
 昔は違う結果であった気がします、確か [ESTJ(幹部)](https://www.16personalities.com/ja/estj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC) だったかと...  
 自覚としては当たらずとも遠からずといった印象ですが、外交的という点はあまり自信ありません。  
 
@@ -36,75 +36,75 @@
 
 # スキルセット
 
-ここ5年以内の主なスキルと経験を記載します。
+ここ 5 年以内の主なスキルと経験を記載します。  
 
 ### Tech Lead
 
-- 経験年数: 2年以上
-- [マネーフォワード MEへのFlutter導入をリード](https://moneyforward-dev.jp/entry/2023/10/18/110000)
+- 経験年数: 2 年以上
+- [マネーフォワード ME への Flutter 導入をリード](https://moneyforward-dev.jp/entry/2023/10/18/110000)
   - Android/iOS チームの統合とモバイルチームの再構築
   - Flutter エンジニアゼロからのチームビルディング
-- マネーフォワード MEのアーキテクチャ構築と運用
+- マネーフォワード ME のアーキテクチャ構築と運用
   - テンプレートによる属人化排斥を実現
-  - 3年以上の安定運用実績有り
-- CI/CDへの貢献
+  - 3 年以上の安定運用
+- CI/CD への貢献
   - ChatGPT を用いた自動コードレビュー GitHub Actions 導入
   - Bitrise のワークフロー構築
-  - [OpenAPIの導入と WebAPI ポリシーの策定](https://moneyforward-dev.jp/entry/2019/12/06/ios-dev-env/)
+  - [OpenAPI の導入と WebAPI ポリシーの策定](https://moneyforward-dev.jp/entry/2019/12/06/ios-dev-env/)
   - [MagicPod の導入](https://moneyforward-dev.jp/entry/2021/06/01/magic-pod/)
 - ドキュメンテーション
   - 部全体のドキュメント整備とドキュメンテーション文化の啓蒙
   - [過去の仕様を集積しドキュメント化](https://moneyforward-dev.jp/entry/2023/10/18/110000)
-  - [OpenAPIの導入と WebAPI ポリシーの策定](https://moneyforward-dev.jp/entry/2019/12/06/ios-dev-env/)
+  - [OpenAPI の導入と WebAPI ポリシーの策定](https://moneyforward-dev.jp/entry/2019/12/06/ios-dev-env/)
 - チームへの開発プロセスの導入
-  - マネーフォワード MEの一部運用にカンバンを導入
+  - マネーフォワード ME の一部運用にカンバンを導入
 
 ### Flutter
 
-- 経験年数: 2年以上
-- 0からのアーキテクチャ構築とアプリリリース
+- 経験年数: 2 年以上
+- 0 からのアーキテクチャ構築とアプリリリース
 - Flutter Web の開発経験
-- [マネーフォワード MEへのFlutter導入をリード](https://moneyforward-dev.jp/entry/2023/10/18/110000)
+- [マネーフォワード ME への Flutter 導入をリード](https://moneyforward-dev.jp/entry/2023/10/18/110000)
 
 
 ### iOS
 
-- 経験年数: 10年以上
-- 0からのアーキテクチャ構築とアプリリリース
+- 経験年数: 10 年以上
+- 0 からのアーキテクチャ構築とアプリリリース
 - サブスク課金機能開発
 - App Store リリース作業の属人化排除と効率化
 - [マネーフォワード ME の大規模リファクタリング＆リアーキテクチャ](https://moneyforward-dev.jp/entry/2023/10/18/110000)
-- [XcodeGenの導入](https://moneyforward-dev.jp/entry/2019/12/06/ios-dev-env/)
+- [XcodeGen の導入](https://moneyforward-dev.jp/entry/2019/12/06/ios-dev-env/)
 
 ### Project Management
 
-- 経験年数: 2年以上
+- 経験年数: 2 年以上
 - スクラム、カンバン、ウォーターフォール等でのプロジェクトマネジメント
 - チームへの開発プロセスの導入
-  - マネーフォワード MEの一部運用にカンバンを導入
-- PMBOK の知識（7版もキャッチアップ済）
+  - マネーフォワード ME の一部運用にカンバンを導入
+- PMBOK の知識（7 版もキャッチアップ済）
 
 ### UI/UX Design
 
-- 経験年数: 2年以上
+- 経験年数: 2 年以上
 - UI デザイン
-  - 20程度のアプリ・施策のデザイン経験があります
+  - 20 程度のアプリ・施策のデザイン経験があります
 - UI デザインフォーマットの構築と普及
-  - 2024年現在、マネーフォワード MEのデザインファイルは考案したフォーマットで運用されています
+  - 2024 年現在、マネーフォワード ME のデザインファイルは考案したフォーマットで運用されています
 - [ダークモード対応](https://moneyforward-dev.jp/entry/2021/08/27/dark-mode-me-ios/)
 
 ### Product Management
 
-- 経験年数: 0.5年以上
+- 経験年数: 0.5 年以上
 - 企画の発案から効果計測までの一貫した経験
   - [マネーフォワード ME 電子レシートの読み取り機能](https://support.me.moneyforward.com/hc/ja/articles/4405707069593-%E9%9B%BB%E5%AD%90%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E3%81%AE%E8%AA%AD%E3%81%BF%E5%8F%96%E3%82%8A%E6%A9%9F%E8%83%BD%E3%81%AB%E5%AF%BE%E5%BF%9C-iOS-iPadOS%E7%89%88%E3%82%A2%E3%83%97%E3%83%AA)
   - 多数メディアに掲載
 
 ### Engineering Management
 
-- 経験年数: 2年以上
-- 7人以内のチームマネジメント経験
-- チームメンバーの目標設定補助および定期的な1on1の実施
+- 経験年数: 2 年以上
+- 7 人以内のチームマネジメント経験
+- チームメンバーの目標設定補助および定期的な 1on1 の実施
 - 採用活動と面談、技術課題のレビュー等のリクルーティング業務
 - 中途・新卒のオンボーディング
   - 中途メンバーのオンボーディングの仕組み作り
