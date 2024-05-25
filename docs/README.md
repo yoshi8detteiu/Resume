@@ -1,4 +1,4 @@
-# Introduction
+# 自己紹介
 
 直近ではマネーフォワードのモバイルテックリードとして、マネーフォワード ME の Flutter 化や、大規模リファクタリング&リアーキテクチャなどをリードしてきました。  
 また、プロジェクトマネジメントやプロダクトマネジメント、ピープルマネジメント、デザインにおいても評価を頂いており、マルチに動けるテックリードだと自負しています。  
@@ -34,7 +34,7 @@ MBTI では ESFJ(領事)と出ました。
 
 趣味はアニメやゲーム、映画、楽器演奏、料理などのインドアが基本ですが、釣りやキャンプも嗜みます。
 
-# Skill Set
+# スキルセット
 
 5 年以内の主なスキルと経験をこちらに記載します。  
 
@@ -83,7 +83,7 @@ MBTI では ESFJ(領事)と出ました。
   - 非日本語話者のいるチームのリーダー経験
   - ビジネスレベルのテキストコミュニケーションスキル (対エンジニア限定)
 
-## Old Skill Set
+## 過去のスキルセット
 
 5 年以上前の経験や、実務経験が少ないものを記載します。  
 
@@ -105,7 +105,7 @@ MBTI では ESFJ(領事)と出ました。
   - インタラクティブアート開発
   - OSC を利用した通信モジュール開発
 
-## Tools
+## 使い慣れているツール
 
 直近でどういった環境での開発に慣れているか、こちらに記載します。
 
@@ -126,11 +126,11 @@ MBTI では ESFJ(領事)と出ました。
   - Figma
   - Kibela (Markdown のドキュメンテーションサービス)
 
-# Working History
+# 職務経歴
 
 ## [2018/8~] 株式会社マネーフォワード
 
-https://moneyforward.com/  
+<https://moneyforward.com/>  
 個人向け・法人向けに金融系のウェブサービス、アプリケーションを提供する SaaS 企業です。  
 
 ### マネーフォワード ME
@@ -140,10 +140,10 @@ https://moneyforward.com/
 担当ポジション | 主な使用技術・言語 | 公開情報がある主な実績
 ---- | ---- | ----
 モバイルテックリード | Flutter | [Flutter 導入](https://moneyforward-dev.jp/entry/2023/10/18/110000)
-iOS エンジニア | Swift<br>Objective-C | [大規模リファクタリング&リアーキテクチャ](https://moneyforward-dev.jp/entry/2023/10/18/110000)
+iOS エンジニア | Swift, Objective-C | [大規模リファクタリング&リアーキテクチャ](https://moneyforward-dev.jp/entry/2023/10/18/110000)
 プロジェクトマネージャ | JIRA | [資産形成アドバンスコース新機能](https://note.com/me_moneyforward/n/nb8dd723ee263)
 プロダクトマネージャ | PlantUML | [電子レシートの読み取り機能](https://support.me.moneyforward.com/hc/ja/articles/4405707069593-%E9%9B%BB%E5%AD%90%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E3%81%AE%E8%AA%AD%E3%81%BF%E5%8F%96%E3%82%8A%E6%A9%9F%E8%83%BD%E3%81%AB%E5%AF%BE%E5%BF%9C-iOS-iPadOS%E7%89%88%E3%82%A2%E3%83%97%E3%83%AA)
-デザイナー | Figma<br>Sketch | [iOS 版マネーフォワード ME のダークモード対応](https://moneyforward-dev.jp/entry/2021/08/27/dark-mode-me-ios/)
+デザイナー | Figma, Sketch | [iOS 版マネーフォワード ME のダークモード対応](https://moneyforward-dev.jp/entry/2021/08/27/dark-mode-me-ios/)
 チームリーダー | - | -
 
 iOS エンジニアとして入社後、マネーフォワード ME の主要施策のほとんどを担当し、後にモバイルのテックリードとして任命されました。  
@@ -175,7 +175,7 @@ iOS エンジニアとして入社後、マネーフォワード ME の主要施
 
 ## [2016/4~2018/7] 株式会社 ENTAP
 
-https://n-seikei.jp/2024/03/post-99043.html  
+<https://n-seikei.jp/2024/03/post-99043.html>  
 小規模 SIer・SES を請け負う開発会社です。  
 在職時は東京にオフィスを持っていたのですが、2024 年に解散しています。
 
@@ -189,7 +189,7 @@ https://n-seikei.jp/2024/03/post-99043.html
 
 担当ポジション | 主な使用技術・言語 | 公開情報がある主な実績
 ---- | ---- | ----
-デザイナー<br>エンジニア | Unity<br>Processing | -
+デザイナー, エンジニア | Unity, Processing | -
 
 Unity を用いて 2D のコントローラのようなものを実装し、その操作を OSC という技術を利用して送受信することで、プロジェクションマッピングをインタラクティブに操作するという機能を担当しました。
 
@@ -202,7 +202,7 @@ Unity を用いて 2D のコントローラのようなものを実装し、そ�
 
 担当ポジション | 主な使用技術・言語 | 公開情報がある主な実績
 ---- | ---- | ----
-PjM<br>デザイナー | Sketch<br>OpenCV<br>Xamarin | [サンアークスパッタカウンター](https://www.tn-sanso.co.jp/Portals/0/resources/jp/rd/giho/pdf/37/tnscgiho37_09.pdf)
+PjM, デザイナー | Sketch, OpenCV, Xamarin | [サンアークスパッタカウンター](https://www.tn-sanso.co.jp/Portals/0/resources/jp/rd/giho/pdf/37/tnscgiho37_09.pdf)
 
 クライアントとの要求・要件定義から、UI デザイン、エンジニアと協力した技術調査などを担当しました。  
 かなり難易度の高い開発だったのですが、OpenCV を用いた画像処理により動画中の画像をいくつかの手法を用いてチームで試行錯誤した結果、要件を満たすアプリを納品できました。
@@ -214,7 +214,7 @@ PjM<br>デザイナー | Sketch<br>OpenCV<br>Xamarin | [サンアークスパッ
 
 担当ポジション | 主な使用技術・言語 | 公開情報がある主な実績
 ---- | ---- | ----
-PjM<br>デザイナー<br>エンジニア | Sketch<br>Vue.js<br>Electron | [ラベル屋さん ラベル＆カード作成ソフト](https://www.watch.impress.co.jp/docs/news/1187986.html)
+PjM, デザイナー, エンジニア | Sketch, Vue.js, Electron | [ラベル屋さん ラベル＆カード作成ソフト](https://www.watch.impress.co.jp/docs/news/1187986.html)
 
 クライアントとの要求・要件定義から、UI デザイン、技術選定やアーキテクチャ構築を担当しました。  
 また、ペルソナの作成やユーザテストの実施依頼がありましたので、UX リサーチしました。
@@ -227,14 +227,14 @@ PjM<br>デザイナー<br>エンジニア | Sketch<br>Vue.js<br>Electron | [ラ�
 
 担当ポジション | 主な使用技術・言語 | 公開情報がある主な実績
 ---- | ---- | ----
-デザイナー<br>エンジニア | Sketch<br>Unity<br>iOS | [AR Kobit](https://apps.apple.com/mx/app/ar-kobit/id1305642725)
+デザイナー, エンジニア | Sketch, Unity, iOS | [AR Kobit](https://apps.apple.com/mx/app/ar-kobit/id1305642725)
 
 当時発表され話題だった ARKit を用いて何かを作ろうということで、隙間時間にキャッチアップし Unity を使って開発しました。  
 当時は AR アプリ自体も少なかったため、海外の AR 情報サイトで意外と高評価をもらう事ができました。
 
 ## [2015/11~2016/2] 株式会社コロプラ
 
-https://colopl.co.jp/  
+<https://colopl.co.jp/>  
 スマートフォン向けソーシャルゲーム開発を主に行う企業です。  
 ゲーム部門ではない開発部署へ配属。
 
@@ -244,13 +244,13 @@ https://colopl.co.jp/
 
 担当ポジション | 主な使用技術・言語 | 公開情報がある主な実績
 ---- | ---- | ----
-フロントエンドエンジニア | AngularJS<br>CoffeeScript | [スマートアンサー](https://gamebiz.jp/news/289079)
+フロントエンドエンジニア | AngularJS, CoffeeScript | [スマートアンサー](https://gamebiz.jp/news/289079)
 
 アプリケーションの管理画面の保守開発を担当。
 
 ## [2013/9~2015/10] 株式会社 gloops
 
-https://ja.wikipedia.org/wiki/Gloops  
+<https://ja.wikipedia.org/wiki/Gloops>  
 ソーシャルゲームの開発・運営を主業務とする企業です。  
 ソーシャルゲーム黎明期ではかなりの売上がありましたが、2021 年に解散しています。
 
@@ -261,7 +261,7 @@ Unity による 3D 部分と、WebView による 2D 部分を組み合わせた�
 
 担当ポジション | 主な使用技術・言語 | 公開情報がある主な実績
 ---- | ---- | ----
-デザイナー<br>エンジニア | 独自の JavaScript フレームワーク<br>Unity | -
+デザイナー, エンジニア | 独自の JavaScript フレームワーク, Unity | -
 
 UI デザインとフロントエンドのリーダーとして、JavaScript フレームワークの構築と機能実装を主に担当し、一部 Unity の実装にもコミットしました。
 
@@ -272,14 +272,14 @@ UI デザインとフロントエンドのリーダーとして、JavaScript フ
 
 担当ポジション | 主な使用技術・言語 | 公開情報がある主な実績
 ---- | ---- | ----
-iOS エンジニア | Objective-C<br>Swift | [BEST☆ELEVEN+](https://www.bestelevenplus.jp/)
+iOS エンジニア | Objective-C, Swift | [BEST☆ELEVEN+](https://www.bestelevenplus.jp/)
 
 リリース直後にジョインし、iOS エンジニアとして施策の運用と開発を担当しました。  
 後期はメインエンジニアとして、アプリケーションの大規模なリファクタリングやリアーキテクチャを実施しました。
 
 ## [2011/4~2013/8] 株式会社 KSF
 
-https://www.ksf.jp/  
+<https://www.ksf.jp/>  
 ソフトウェア開発や検証業務の受託や SES を行う企業です。  
 新卒でこちらに入社しました。
 
@@ -290,7 +290,7 @@ https://www.ksf.jp/
 
 担当ポジション | 主な使用技術・言語 | 公開情報がある主な実績
 ---- | ---- | ----
-Android / iOS エンジニアリーダー | Java<br>Objective-C | [オトラテ](https://www.sonycsl.co.jp/news/1097/)
+Android / iOS エンジニアリーダー | Java, Objective-C | [オトラテ](https://www.sonycsl.co.jp/news/1097/)
 
 モバイルアプリのエンジニアリーダーとして、設計開発、クライアントとの仕様調整などを行いました。  
 
@@ -312,7 +312,6 @@ Android エンジニア | Java | [G’zOne TYPE-L CAL21](https://time-space.kddi
 担当ポジション | 主な使用技術・言語 | 公開情報がある主な実績
 ---- | ---- | ----
 iOS エンジニア | Objective-C | [集合住宅版スマートハウス実証試験](https://www.tokyo-gas.co.jp/Press/20120314-02.html)
-
 
 当時は iOS の開発情報が乏しい中、新卒 2 人で開発しました。  
 当時としてはかなりボリュームが大きいアプリで、しかも発売間もない iPad 用のアプリのため難易度が高かったのですが、無事納品されました。
